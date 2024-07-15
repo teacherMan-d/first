@@ -18,3 +18,5 @@ class City(BaseModel):
     """
     state_id = ""
     name = ""
+
+    helllo = "hello world "
